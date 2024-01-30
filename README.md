@@ -12,6 +12,8 @@ User input: For this part of the project, we took some inputs from the user like
 
 1.	Midpoint Line Algorithm- This algorithm was used to draw all the lines in our project. Such as the solid body of the missile, the green land on the Earth and as well as the texts ‘END’ and ‘SAVED’.<br>
 
-2.	Midpoint Circle Algorithm- This algorithm was used to draw the shape of the Earth, the Destroyed Earth(the fragments after destruction :3) and the asteroids.
+2.	Midpoint Circle Algorithm- This algorithm was used to draw the shape of the Earth, the Destroyed Earth(the fragments after destruction) and the asteroids.<br>
+
+Note: This is not an efficient code and I do know that the code can be modified for a more better result. Currently working on this as well.
  </p>
 </div>

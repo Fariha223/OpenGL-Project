@@ -14,6 +14,5 @@ User input: For this part of the project, we took some inputs from the user like
 
 2.	Midpoint Circle Algorithm- This algorithm was used to draw the shape of the Earth, the Destroyed Earth(the fragments after destruction) and the asteroids.<br>
 
-Note: This is not an efficient code and I do know that the code can be modified for a more better result. Currently working on this as well.
  </p>
 </div>
